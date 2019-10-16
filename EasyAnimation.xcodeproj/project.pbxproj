@@ -175,7 +175,7 @@
 					403482531B8E01ED006C3C7C = {
 						CreatedOnToolsVersion = 6.4;
 						DevelopmentTeamName = "Bakken & Bæck AS";
-						LastSwiftMigration = 0800;
+						LastSwiftMigration = 1100;
 					};
 					72A03EEA1C29784A002DA467 = {
 						DevelopmentTeamName = "Bakken & Bæck AS";
@@ -187,6 +187,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = 4034824A1B8E01ED006C3C7C;
@@ -355,7 +356,7 @@
 				PRODUCT_BUNDLE_IDENTIFIER = "com.easyanimation.$(PRODUCT_NAME:rfc1034identifier)";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Debug;
 		};
@@ -375,7 +376,7 @@
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SKIP_INSTALL = YES;
 				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
-				SWIFT_VERSION = 4.2;
+				SWIFT_VERSION = 5.0;
 			};
 			name = Release;
 		};
